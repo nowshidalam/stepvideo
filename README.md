@@ -12,7 +12,7 @@ A simple software walkthrough can quickly turn into hours of editing and documen
 
 ## What Is StepVideo?
 
-[**StepVideo**](https://stepvideo.io/) is an **AI-powered screen recorder** that turns screen recordings into polished software tutorials and step-by-step guides.
+StepVideo is an **AI-powered screen recorder** that turns screen recordings into polished software tutorials and step-by-step guides.
 
 Instead of editing a recording manually on a traditional video timeline, StepVideo analyzes your software workflow and organizes it into **individual steps**.
 
