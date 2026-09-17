@@ -103,10 +103,10 @@ You can:
 
 StepVideo can turn the recording into a polished tutorial with:
 
-* **AI voiceover**
-* **Word-by-word captions**
-* **Automatic zooms**
-* **Annotated screenshots**
+* AI voiceover
+* Word-by-word captions
+* Automatic zooms
+* Annotated screenshots
 * Edited steps
 
 ### 5. Create a Written Guide
