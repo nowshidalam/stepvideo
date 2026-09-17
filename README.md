@@ -16,7 +16,7 @@ StepVideo is an **AI-powered screen recorder** that turns screen recordings into
 
 Instead of editing a recording manually on a traditional video timeline, StepVideo analyzes your software workflow and organizes it into **individual steps**.
 
-You can then edit those steps, add AI-powered elements, and create a **tutorial video and written guide from the same recording.**
+You can then edit those steps, add AI-powered elements, and create a tutorial video and written guide from the same recording.
 
 > **Record once. Edit by steps. Create a tutorial.**
 
@@ -28,7 +28,7 @@ You can then edit those steps, add AI-powered elements, and create a **tutorial 
 
 ### AI Cleanup, AI Voiceovers & Manual Editing
 
-StepVideo uses AI to clean up and structure your screen recordings into polished tutorials. It removes **mistakes, pauses, and dead time**, then organizes the recording into individual steps.
+StepVideo uses AI to clean up and structure your screen recordings into polished tutorials. It removes mistakes, pauses, and dead time, then organizes the recording into individual steps.
 
 You can edit your tutorial **step by step** instead of working with a traditional video timeline.
 
@@ -38,7 +38,7 @@ You can also edit the script manually. Your changes update the voiceover and cap
 
 StepVideo automatically adds **zoom effects to important clicks and areas of the screen**, making it easier for viewers to follow your workflow.
 
-It also generates **word-by-word captions and annotated screenshots** to highlight important actions and information.
+It also generates word-by-word captions and annotated screenshots to highlight important actions and information.
 
 ### Privacy Protection
 
@@ -62,7 +62,7 @@ StepVideo supports **recording in 96 languages and publishing videos in 58 langu
 
 ### Brand Customization
 
-Keep your tutorials consistent with your brand by adding your **logo and other branding elements.**
+Keep your tutorials consistent with your brand by adding your logo and other branding elements.
 
 This is useful for product tutorials, onboarding videos, customer education, and internal documentation.
 
@@ -74,16 +74,16 @@ This is useful for product tutorials, onboarding videos, customer education, and
 
 Start a recording in Chrome and demonstrate the software workflow you want to explain.
 
-You can record a **product walkthrough, feature demonstration, onboarding process, internal workflow, or software tutorial.**
+You can record a product walkthrough, feature demonstration, onboarding process, internal workflow, or software tutorial.
 
 ### 2. AI Analyzes the Recording
 
 StepVideo analyzes the recording and identifies important parts of the workflow, including actions such as:
 
-* **Mouse clicks**
-* **Scrolling**
-* **Page changes**
-* **Workflow steps**
+* Mouse clicks
+* Scrolling
+* Page changes
+* Workflow steps
 
 The recording is then organized into a structured tutorial.
 
@@ -107,7 +107,7 @@ StepVideo can turn the recording into a polished tutorial with:
 * **Word-by-word captions**
 * **Automatic zooms**
 * **Annotated screenshots**
-* **Edited steps**
+* Edited steps
 
 ### 5. Create a Written Guide
 
@@ -123,12 +123,12 @@ Once your tutorial is ready, you can share it through a **dedicated share page**
 
 StepVideo offers a **10-day free trial** with 5 AI video minutes and no credit card required. Paid plans include Creator and Studio, with Enterprise available for custom requirements.
 
-| **Plan**       |        **Price** | **AI Video Minutes** | **AI Guides** | **Exports**  | **Key Extras**                                                                           |
-| -------------- | ---------------: | -------------------: | ------------: | ------------ | ---------------------------------------------------------------------------------------- |
-| **Free Trial** | **$0 / 10 days** |                5 min |             5 | Watermarked  | AI voiceover, word-by-word captions, share pages, 1 seat                                 |
-| **Creator**    |       **$29/mo** |         25 min/month |     Unlimited | No watermark | Blur tools, AI voiceover & captions, share pages, 3 seats                                |
-| **Studio**     |       **$99/mo** |        100 min/month |     Unlimited | No watermark | Up to 10 seats, Brand Kit, branded share pages, Knowledge Base portals, priority support |
-| **Enterprise** | **From $299/mo** |               Custom |        Custom | Custom       | Custom AI minutes, recording length, seats and terms, personalized onboarding            |
+| **Plan**   |    **Price** | **AI Video Minutes** | **AI Guides** | **Exports**  | **Key Extras**                                                                           |
+| ---------- | -----------: | -------------------: | ------------: | ------------ | ---------------------------------------------------------------------------------------- |
+| Free Trial | $0 / 10 days |                5 min |             5 | Watermarked  | AI voiceover, word-by-word captions, share pages, 1 seat                                 |
+| Creator    |       $29/mo |         25 min/month |     Unlimited | No watermark | Blur tools, AI voiceover & captions, share pages, 3 seats                                |
+| Studio     |       $99/mo |        100 min/month |     Unlimited | No watermark | Up to 10 seats, Brand Kit, branded share pages, Knowledge Base portals, priority support |
+| Enterprise | From $299/mo |               Custom |        Custom | Custom       | Custom AI minutes, recording length, seats and terms, personalized onboarding            |
 
 👉 [**See Current StepVideo Plans**](https://stepvideo.io/pricing)
 
@@ -148,7 +148,7 @@ StepVideo offers a **10-day free trial** with 5 AI video minutes and no credit c
 
 ## Is StepVideo the Right Tool for Your Workflow?
 
-Different tools are designed for different ways of creating software content. The table below compares StepVideo with other popular tools to show **what each one is best suited for and which workflow each tool fits best.**
+Different tools are designed for different ways of creating software content. The table below compares StepVideo with other popular tools to show what each one is best suited for and which workflow each tool fits best.
 
 | **Tool**      | **Best for**                            | **Why it makes the list**                                                                                                              | **Choose something else when**                                                            |
 | ------------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -165,9 +165,9 @@ Different tools are designed for different ways of creating software content. Th
 
 StepVideo is built for anyone who knows what they want to show but doesn't want to spend hours turning a screen recording into a finished tutorial.
 
-**Record your workflow once**, and StepVideo helps turn it into a polished tutorial with **automatic cleanup, zooms, AI voiceover, captions, and a written step-by-step guide.**
+**Record your workflow once**, and StepVideo helps turn it into a polished tutorial with automatic cleanup, zooms, AI voiceover, captions, and a written step-by-step guide.
 
-If you regularly create **software tutorials, product demos, onboarding content, or documentation**, StepVideo can simplify the process by letting you create both video and written content from the same recording.
+If you regularly create software tutorials, product demos, onboarding content, or documentation, StepVideo can simplify the process by letting you create both video and written content from the same recording.
 
 **Start with the free trial and see how it fits into your workflow.**
 
@@ -197,7 +197,7 @@ With **Perfect Take (beta)**, you can also re-record an individual step without 
 
 Yes. Each step has its own generated script, and you can edit it manually.
 
-When you change the script, the **voiceover and captions for that step are regenerated** without requiring you to record the entire tutorial again.
+When you change the script, the voiceover and captions for that step are regenerated without requiring you to record the entire tutorial again.
 
 ### Where does the finished video live?
 
