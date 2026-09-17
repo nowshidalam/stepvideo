@@ -8,6 +8,8 @@ A simple software walkthrough can quickly turn into hours of editing and documen
 
 **StepVideo helps simplify this process.**
 
+<img width="1313" height="1037" alt="image" src="https://github.com/user-attachments/assets/e29324e7-1008-4f3e-bc75-e58cf7d5b051" />
+
 ---
 
 ## What Is StepVideo?
