@@ -1,4 +1,4 @@
-# StepVideo – AI Screen Recorder for Software Tutorials & Documentation
+# StepVideo – AI Screen Recorder & Software Tutorial Maker
 
 Creating a software tutorial sounds simple: record your screen, explain what you're doing, and share it.
 
